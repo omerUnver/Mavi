@@ -1,2 +1,2 @@
 # Mavi App Design
-![Mavi App Design](/Users/m.omerunver/Desktop/MaviAppDesign.png)
+![Mavi App Design](MaviAppDesign.png)
